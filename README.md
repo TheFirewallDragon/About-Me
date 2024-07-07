@@ -43,8 +43,8 @@
 <h2>Personal Projects</h2>
 
  - [100 Python Projects](https://github.com/TheFirewallDragon/100PythonProjects)
+ - [Certifications' Decision Trees and Notes](https://drive.google.com/file/d/1s-csH8cAhg_A0q7t-vd7XvkJZeQ-Xs73/view?usp=sharing)
  - [Cybersecurity Literature Repo](https://github.com/TheFirewallDragon/CybersecurityLiteratureRepo)
- - [INSANE DIFFICULTY Capture the Flag Reports](https://github.com/TheFirewallDragon/Insane-Difficulty-CTF-Reports)
  - [PowerShell Modules](https://github.com/TheFirewallDragon/PowerShellModules)
  - [The Odin Project](https://github.com/TheFirewallDragon/TheOdinProject)
 
