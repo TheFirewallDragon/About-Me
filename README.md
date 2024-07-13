@@ -1,6 +1,6 @@
-<h1>Bonjour, Greetings,<br> Je m'appelle Guillaume! My name is Guillaume! <br/>Cybersecurity Student</h1>
+un<h1>Bonjour, Greetings,<br> Je m'appelle Guillaume! My name is Guillaume! <br/>Cybersecurity Student</h1>
 
-<a href="https://www.linkedin.com/in/guillaume-carrier-couture-b0b588252/">
+<a href="https://www.linkedin.com/in/guillaumecarriercouture">
     <img align="left" alt="Guillaume CC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a><br>
 
