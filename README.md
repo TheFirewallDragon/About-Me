@@ -43,6 +43,7 @@
 <h2>Personal Projects</h2>
 
  - [100 Python Projects](https://github.com/TheFirewallDragon/100PythonProjects)
+ - [Certifications' Decision Trees and Notes](https://drive.google.com/file/d/1x49l8meUFcRBcEKEyuP7iEOw4qTTD6fn/view?usp=sharing)
  - [Cybersecurity Literature Repo](https://github.com/TheFirewallDragon/CybersecurityLiteratureRepo)
  - [PowerShell Modules](https://github.com/TheFirewallDragon/PowerShellModules)
  - [The Odin Project](https://github.com/TheFirewallDragon/TheOdinProject)
