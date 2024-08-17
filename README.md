@@ -30,7 +30,6 @@
  - [Code Academy](https://www.codecademy.com/profiles/AccesscodeTalker) | [*Certificates*](https://github.com/TheFirewallDragon/Code-Academy-Certificates)
  - [HackTheBox](https://app.hackthebox.com/users/1541118)
  - [LeetCode](https://leetcode.com/FirewallDragon)
- - [OverTheWire](https://overthewire.org/wargames/)
  - [PicoCTF](https://play.picoctf.org/users/guillaumethecoder)
  - [RootMe](https://www.root-me.org/FirewallDragon)
  - [TCM Security Academy](https://academy.tcm-sec.com) | [*Certificates*](https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates)
