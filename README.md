@@ -18,12 +18,10 @@
 - <a href="https://academy.hackthebox.com/preview/certifications">Hack The Box (HTB)</a>
     - [CBBH: Certified Bug Bounty Hunter](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter) | [*Certificate*](https://www.linkedin.com/in/guillaumecarrier-couture/overlay/1723869845505/single-media-viewer/?profileId=ACoAAD5goDsBi8LOm0yvwDEuyrgIY1DPUYG64sM)
 
- <!-- 
 <h2>Experience</h2>
 
- -
- 
- -->
+ - Vulnerability Manager | Penetration Testing and Vulnerability Management (Current)
+
  
 <h2>Training</h2>
 
