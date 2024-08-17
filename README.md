@@ -13,12 +13,10 @@
  - <a href="https://clg.qc.ca/programmes/sciences-humaines-avec-mathematiques/#apercu-1-tab">College Diploma (DEC) in Human Sciences and Math at Collège Lionel Groulx</a>
  - <a href="https://externat.qc.ca/">High School Diploma (DES) at Externat Sacré-Coeur</a>
 
-<!-- 
 <h2>Certifications</h2>
 
- -
- 
- -->
+- <a href="https://academy.hackthebox.com/preview/certifications">Hack The Box</a>
+    - [Certified Bug Bounty Hunter (CBBH)](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter) | [*Certificate*](https://www.linkedin.com/in/guillaumecarrier-couture/overlay/1723869845505/single-media-viewer/?profileId=ACoAAD5goDsBi8LOm0yvwDEuyrgIY1DPUYG64sM)
 
  <!-- 
 <h2>Experience</h2>
