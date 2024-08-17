@@ -15,7 +15,7 @@
 
 <h2>Certifications</h2>
 
-- <a href="https://academy.hackthebox.com/preview/certifications">Hack The Box</a>
+- <a href="https://academy.hackthebox.com/preview/certifications">Hack The Box (HTB)</a>
     - [Certified Bug Bounty Hunter (CBBH)](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter) | [*Certificate*](https://www.linkedin.com/in/guillaumecarrier-couture/overlay/1723869845505/single-media-viewer/?profileId=ACoAAD5goDsBi8LOm0yvwDEuyrgIY1DPUYG64sM)
 
  <!-- 
