@@ -43,7 +43,7 @@
  - [PowerShell Modules](https://github.com/TheFirewallDragon/PowerShellModules)
  - [The Odin Project](https://github.com/TheFirewallDragon/TheOdinProject)
 
-<h2>Other Interests & Hobbies</h2>
+<h2>Other Interests</h2>
 
  - <b>Linguistics 🇫🇷 🇺🇸 🇮🇹 🇵🇱</b>
    - French, English, Italian, Polish
