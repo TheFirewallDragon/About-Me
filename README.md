@@ -21,7 +21,11 @@
 <h2>Experience</h2>
 
  - Vulnerability Manager | Penetration Testing and Vulnerability Management (Current)
+<!--
+<h2>Tools</h2>
 
+    -
+-->
  
 <h2>Training</h2>
 
