@@ -43,6 +43,7 @@
  - [TCM Security Academy](https://academy.tcm-sec.com) | [*Certificates*](https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates)
  - [TryHackMe](https://tryhackme.com/p/TheFirewallDragon) | [*Certificates*](https://github.com/TheFirewallDragon/TryHackMe-Certificates)
  - [udemy](https://www.udemy.com) | [*Certificates*](https://github.com/TheFirewallDragon/udemy-Certificates)
+ - [Web Security Academy](https://portswigger.net/web-security)
 
 <h2>Personal Projects</h2>
 
