@@ -18,6 +18,12 @@
 - <a href="https://academy.hackthebox.com/preview/certifications">Hack The Box (HTB)</a>
     - [HTB Certified Bug Bounty Hunter (HTB CBBH)](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter) | [*Certificate*](https://www.linkedin.com/in/guillaumecarrier-couture/overlay/1723869845505/single-media-viewer/?profileId=ACoAAD5goDsBi8LOm0yvwDEuyrgIY1DPUYG64sM)
 
+<!--
+- <a href="[https://portswigger.net/web-security/certification]">PortSwigger</a>
+  
+    - [Burp Suite Certified Practitioner (BSCP)]
+-->
+
 <h2>Experience</h2>
 
  - Vulnerability Manager | Penetration Testing and Vulnerability Management (Current)
@@ -37,7 +43,6 @@
  - [TCM Security Academy](https://academy.tcm-sec.com) | [*Certificates*](https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates)
  - [TryHackMe](https://tryhackme.com/p/TheFirewallDragon) | [*Certificates*](https://github.com/TheFirewallDragon/TryHackMe-Certificates)
  - [udemy](https://www.udemy.com) | [*Certificates*](https://github.com/TheFirewallDragon/udemy-Certificates)
- - [Web Security Academy](https://portswigger.net/web-security)
 
 <h2>Personal Projects</h2>
 
