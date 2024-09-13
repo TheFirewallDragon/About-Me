@@ -51,7 +51,6 @@
  - <b>Linguistics 🇫🇷 🇺🇸 🇮🇹 🇵🇱</b>
    - French, English, Italian, Polish
    - Knowledge of other languages
-   - [Duolingo](https://www.duolingo.com/profile/guillaume-san), [Busuu](https://www.busuu.com)
  - <b>Martial Arts</b>
    - Shōrin-Ryū Karate (少林流空手) Black Belt
    - Kickboxing, Muay Thai (มวยไทย)
