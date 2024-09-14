@@ -16,7 +16,7 @@
 <h2>Certifications</h2>
 
 - <a href="https://academy.hackthebox.com/preview/certifications">Hack The Box (HTB)</a>
-    - [HTB Certified Bug Bounty Hunter (HTB CBBH)](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter) | [*Certificate*](https://www.linkedin.com/in/guillaumecarrier-couture/overlay/1723869845505/single-media-viewer/?profileId=ACoAAD5goDsBi8LOm0yvwDEuyrgIY1DPUYG64sM)
+    - [HTB Certified Bug Bounty Hunter (HTB CBBH)](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter) | [*Certificate*](https://github.com/TheFirewallDragon/Certs/blob/main/HTB/HTB%20Certified%20Bug%20Bounty%20Hunter_Certificate.pdf)
 
 <!--
 - <a href="[https://portswigger.net/web-security/certification]">PortSwigger</a>
