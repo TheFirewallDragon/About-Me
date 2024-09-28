@@ -36,7 +36,7 @@
 <h2>Training</h2>
 
  - [Code Academy](https://www.codecademy.com/profiles/AccesscodeTalker) | [*Certificates*](https://github.com/TheFirewallDragon/Code-Academy-Certificates)
- - [HackTheBox](https://app.hackthebox.com/users/1541118)
+ - [Hack The Box](https://app.hackthebox.com/users/1541118)
  - [LeetCode](https://leetcode.com/FirewallDragon)
  - [PicoCTF](https://play.picoctf.org/users/TheFirewallDragon)
  - [RootMe](https://www.root-me.org/FirewallDragon)
