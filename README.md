@@ -7,7 +7,7 @@
 <h2>Education</h2>
 
  - <a href="https://www.polymtl.ca/futur/certificat/programmes/cumul-cybersecurite">Bachelor of Cybersecurity at Polytechnique Montréal</a>
-   - <a href="https://www.polymtl.ca/futur/certificat/programmes/cybersecuriteoperationnelle">Certificate | Analysis and Operational Cybersecurity</a>
+   - <a href="https://www.polymtl.ca/futur/en/certificate/programs/operationalcybersecurity">Certificate | Analysis and Operational Cybersecurity</a>
    - <a href="https://www.polymtl.ca/futur/certificat/programmes/cyberfraude">Certificate | Cyberfraud</a> (Current)
    - <a href="https://www.polymtl.ca/futur/certificat/programmes/cyberfraude">Certificate | Cyberfraud</a> (Current)
  - <a href="https://clg.qc.ca/programmes/sciences-humaines-avec-mathematiques/#apercu-1-tab">College Diploma in Human Sciences and Math at Collège Lionel Groulx</a>
