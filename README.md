@@ -48,7 +48,6 @@
 <h2>Personal Projects</h2>
 
  - [100 Python Projects](https://github.com/TheFirewallDragon/100PythonProjects)
- - [Cybersecurity Literature Repo](https://github.com/TheFirewallDragon/CybersecurityLiteratureRepo)
  - [PowerShell Modules](https://github.com/TheFirewallDragon/PowerShellModules)
  - [The Odin Project](https://github.com/TheFirewallDragon/TheOdinProject)
 
