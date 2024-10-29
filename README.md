@@ -17,6 +17,7 @@
 
 - <a href="https://academy.hackthebox.com/preview/certifications">Hack The Box (HTB)</a>
     - [HTB Certified Bug Bounty Hunter (HTB CBBH)](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter) | [*Certificate*](https://github.com/TheFirewallDragon/Certs/blob/main/HTB/HTB%20Certified%20Bug%20Bounty%20Hunter_Certificate.pdf)
+    - [HTB Certified Penetration Testing Specialist (HTB CPTS)](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) | [*Certificate*](https://github.com/TheFirewallDragon/Certs/blob/main/HTB/HTB%20Certified%20Penetration%20Testing%20Specialist_Certificate.pdf)
 
 <!--
 - <a href="[https://portswigger.net/web-security/certification]">PortSwigger</a>
