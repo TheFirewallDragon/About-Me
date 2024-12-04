@@ -54,7 +54,7 @@
 
 <h2>Other Interests</h2>
 
- - <b>Linguistics 🇫🇷 🇺🇸 🇮🇹 🇵🇱</b>
+ - <b>Linguistics</b>
    - French, English, Italian, Polish
    - Knowledge of other languages
  - <b>Martial Arts</b>
